@@ -64,6 +64,8 @@ public:
 
 #define WEAPON_NONE				0
 #define WEAPON_CROWBAR			1
+#define WEAPON_MYCOLDWEAPON     18   // выберите свободный номер, не занятый другим оружием
+
 #define	WEAPON_GLOCK			2
 #define WEAPON_PYTHON			3
 #define WEAPON_MP5				4
