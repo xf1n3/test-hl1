@@ -26,6 +26,8 @@ struct skilldata_t
 	// Monster Health & Damage
 	float agruntHealth;
 	float agruntDmgPunch;
+    float plrDmgMyColdWeapon;
+
 
 	float apacheHealth;
 
