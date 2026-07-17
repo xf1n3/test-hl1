@@ -20,6 +20,8 @@
 #include	"skill.h"
 
 skilldata_t gSkillData;
+gSkillData.plrDmgMyColdWeapon = GetSkillCvar("plr_dmg_mycoldweapon");
+
 
 //=========================================================
 // take the name of a cvar, tack a digit for the skill level
